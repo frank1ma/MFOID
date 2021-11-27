@@ -1,2 +1,2 @@
 # MFOID
-FOID for MIMO system
+Flat output identification system for special MIMO system
